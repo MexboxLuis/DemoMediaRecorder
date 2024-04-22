@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">The Best Audio Recorder</string>
+    <string name="time_format">Time left: </string>
+    <string name="toast_successfully">Audio downloaded successfully</string>
+    <string name="toast_error">Error downloading audio</string>
+    <string name="history">Recorded audio history</string>
+    <string name="alert_dialog_name">File name: </string>
+    <string name="save_fb">Save in the application:</string>
+    <string name="save_storage">Save in files:</string>
+</resources>
