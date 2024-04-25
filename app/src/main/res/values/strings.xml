@@ -5,6 +5,18 @@
     <string name="toast_error">Error downloading audio</string>
     <string name="history">Recorded audio history</string>
     <string name="alert_dialog_name">File name: </string>
+    <string name="filter_audio">Audio filter:</string>
     <string name="save_fb">Save in the application:</string>
     <string name="save_storage">Save in files:</string>
+    <string name="filter_advice">Audio filters are still a test version, so downloads are disabled.</string>
+    <string name="about_app">An innovative audio recording application that offers an exceptional user experience by allowing the application of a variety of voice filters in real time. With advanced features such as Speed Up, Slowed and other custom audio effects, our app gives users full control over their recording experience, allowing them to create high-quality content easily and efficiently. Whether creating podcasts, professional recordings or simply adding a creative touch to your audio clips, our voice recorder with filters is the perfect tool for any audio enthusiast.</string>
+    <string name="bug_advice">This application may contain bugs.</string>
+    <string name="duration">Duration: </string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Confirm</string>
+    <string name="play">Play</string>
+    <string name="version">Version:</string>
+    <string name="advice_file_name">Please enter a valid file name. Only letters, numbers, underscores and hyphens are allowed.</string>
+
+
 </resources>

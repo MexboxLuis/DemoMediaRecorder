@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">La Mejor Grabadora de Audios del Universo</string>
+    <string name="time_format">Tiempo restante:</string>
+    <string name="toast_successfully">La descarga del audio fue exitosa.</string>
+    <string name="toast_error">Error al intentar descargar el audio.</string>
+    <string name="history">Historial de audios grabados.</string>
+    <string name="alert_dialog_name">Nombre del archivo:</string>
+    <string name="filter_audio">Filtro de audio:</string>
+    <string name="save_fb">Guardar en la aplicación: </string>
+    <string name="save_storage">Guardar en el dispositivo:</string>
+    <string name="filter_advice">Los filtros de audio siguen siendo una versión de prueba, por lo que las descargas están deshabilitadas.</string>
+    <string name="about_app">Una aplicación de grabación de audio innovadora que ofrece una experiencia de usuario excepcional al permitir la aplicación de una variedad de filtros de voz en tiempo real. Con características avanzadas como Speed Up, Slowed y otros efectos de audio personalizados, nuestra aplicación proporciona a los usuarios un control total sobre su experiencia de grabación, permitiéndoles crear contenido de alta calidad de manera fácil y eficiente. Ya sea para la creación de podcasts, grabaciones profesionales o simplemente para agregar un toque creativo a tus clips de audio, nuestra grabadora de voz con filtros es la herramienta perfecta para cualquier entusiasta del audio.</string>
+    <string name="bug_advice">Esta aplicación puede contener bugs.</string>
+    <string name="duration">Duración: </string>
+    <string name="cancel">Cancelar</string>
+    <string name="confirm">Confirmar</string>
+    <string name="play">Reproducir</string>
+    <string name="version">Versión:</string>
+    <string name="advice_file_name">Por favor, introduce un nombre de archivo válido. Solo están permitidos letras, espacios, guiones bajos y guiones</string>
+
+</resources>
